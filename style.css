@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff6347;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+}
+
+#home {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#menu {
+    background-color: #e0e0e0;
+}
+
+.menu-item {
+    margin-bottom: 1em;
+}
+
+#contact {
+    background-color: #d0d0d0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin: 0.5em 0 0.2em 0;
+}
+
+form input, form textarea, form button {
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+#footfix {
+    background-color: #ff6347;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.flexmenu{
+    display: flex;
+    width: 100%;
+    
+    justify-content: space-between;
+    text-align: center;
+}
+#vdo{
+    background-color: #e0e0e0;
+    vi
+}
+.butn:hover{
+    background-color: black;
+    color: white;
+}
+.cnd{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    padding: 200px;
+    background-color:rgba(211, 211, 211, 0);
+    color: azure;
+}
+.cn{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    padding: 240px;
+    background-color:rgba(211, 211, 211, 0);
+    color: azure;
+
+}
+.search11{
+    padding: 20px;
+    background-color: #f0f0f0;
+    
+}
+#dish:hover{
+    background-color: rgb(156, 194, 181);
+}
+#dish{
+    border: 2px solid rgb(15, 14, 14) ;
+    border-radius:5% ;
+}
+#menu img{
+    border-radius: 5%;
+}
+.foot12{
+    text-align: center;
+    co
+    
+}
+.footnotfix{
+    
+    justify-content:space-evenly;
+    width: 100%;
+    display: flex;
+    padding left: 20%;
+    padding-top: 0px;
+
+   
+}
+div p{
+    color: rgb(104, 101, 101);
+}
+#fo1{
+   
+    background-color:#d0d0d0 ;
+}
+.footnotfix h4{
+    color: rgb(44, 37, 37);
+}
+
+.width1{
+    width: 20px;
+    height: 30px;
+    padding: 43%;
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+
+}
+.sticky2{
+    position:s;
+}
+
+
